@@ -1,4 +1,4 @@
 # js-calculator
-## A vanilla javascript calculator that uses a revealing module pattern
+## A vanilla javascript calculator that uses the revealing module pattern
 
 https://felixmckenzie.github.io/js-calculator/
